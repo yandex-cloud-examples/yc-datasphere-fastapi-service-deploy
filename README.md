@@ -12,4 +12,4 @@ docker tag fastapi-docker <docker_repo_with_tag>
 docker push <docker_repo_with_tag>
 ```
 
-Подробное руководство см. в [документации Yandex Cloud](cloud.yandex.ru/docs/datasphere/tutorials/node-from-docker-fast-api).
+Подробное руководство см. в [документации Yandex Cloud](https://cloud.yandex.ru/ru/docs/datasphere/tutorials/node-from-docker-fast-api).
